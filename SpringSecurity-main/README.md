@@ -119,4 +119,4 @@ mvn spring-boot:run
 
 ## 👨‍💻 Author
 
-Agampal Singh
+Soumay Soni
